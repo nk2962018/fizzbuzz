@@ -1,4 +1,4 @@
-# Getting Started with Fizzbuzz developedusing Create React App
+# Getting Started with Fizzbuzz developed using Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
